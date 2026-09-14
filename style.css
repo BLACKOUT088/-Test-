@@ -14,5 +14,5 @@ p {
 }
 
 #img1 {
-    transform: scale(0.5);
+    transform: scale(0.5) translate(-50px, -50px);
 }
