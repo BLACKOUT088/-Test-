@@ -4,7 +4,7 @@ body {
     text-align: center;
 }
 
-id1 {
+#id1 {
     color: darkblue;
     background: yellow
 }
@@ -13,6 +13,6 @@ p {
     font-size: 20px;
 }
 
-img1 {
+#img1 {
     transform: scale(0.5);
 }
